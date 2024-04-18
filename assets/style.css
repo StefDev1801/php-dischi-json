@@ -1,3 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body{
-    background-color: aqua;
+    background-color: rgb(150, 89, 89);
+    width: 80%;
+    margin: 1rem auto;
+}
+.dischi{
+    display: flex;
+}
+img{
+    width: 5rem;
+    aspect-ratio: 1;
 }
